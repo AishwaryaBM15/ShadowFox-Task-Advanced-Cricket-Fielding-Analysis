@@ -17,7 +17,9 @@ Python, Pandas, Matplotlib, Google Colab
 ## Results
 - Lalit Yadav: 4  
 - Axer Patel: 3  
-- Phil Salt: 3  
+- Phil Salt: 3
+- 
+A CSV file containing the final performance scores is included in the repository.
 
 ## Google Colab
 👉 https://colab.research.google.com/drive/16XoqBSsmBGPDHY6XcYBMmmJJWEZs9cqL?usp=sharing
